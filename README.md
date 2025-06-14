@@ -182,17 +182,6 @@ val Purple40 = Color(0xFF6650a4)  // Color primario claro
    - Prueba en Android 13+ para verificar solicitud de permisos
    - Prueba denegando permisos y verificando el manejo de errores
 
-## 🚀 Próximas Características
-
-- [ ] Notificaciones recurrentes (diarias, semanales)
-- [ ] Sonidos personalizados para notificaciones
-- [ ] Imágenes en notificaciones
-- [ ] Acciones rápidas en notificaciones
-- [ ] Base de datos para historial de notificaciones
-- [ ] Widgets para programar notificaciones rápidas
-- [ ] Temas personalizables
-- [ ] Exportar/importar configuraciones
-
 ## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Para contribuir:
@@ -202,15 +191,3 @@ Las contribuciones son bienvenidas. Para contribuir:
 3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## 👨‍💻 Autor
-
-**Denovan Monroy**
-- GitHub: [@DenovanMonroy](https://github.com/DenovanMonroy)
-
-
-
